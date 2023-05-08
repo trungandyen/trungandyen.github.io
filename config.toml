@@ -1,0 +1,4 @@
+baseURL = 'https://www.trungandyen.com/'
+languageCode = 'en-us'
+title = 'Trung & Yen'
+theme = 'KeepIt'
