@@ -1,5 +1,21 @@
 baseURL = 'https://www.trungandyen.com/'
 languageCode = 'en-us'
-title = 'Trung & Yen'
+title = ''
 theme = 'KeepIt'
 publishDir = 'docs'
+
+[menu]
+  [[menu.main]]
+    name = "Can Tho 8.7"
+    url = "/8.7"
+    weight = 1
+
+  [[menu.main]]
+    name = "HCMC 9.7"
+    url = "/9.7"
+    weight = 2
+
+[params]
+    subtitle = "Trung & Yen 2023"       # Subtitle
+
+    avatar = "/images/hero.jpg" #comment it to use gravatar
