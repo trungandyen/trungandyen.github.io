@@ -15,3 +15,6 @@ a {
 .time {
   font-family: 'Inconsolata', monospace;
 }
+.top-caption {
+  max-width: 1024px;
+}
